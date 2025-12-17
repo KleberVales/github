@@ -1,48 +1,12 @@
-# 📚 GitHub Foundations Certification
+## Seção 1 – Spring Core
 
-## Introduçao ao github
-### Principais comandos
-### Autenticaçao
-### Trabalho colaborativo
-### Formataçao com Markdown
-
----
-
-## Produtos do Github
-### Contas e ferramentas
-### GitHub Project
-### GitHub Copilot
-### GitHub Codespace
-### GitHub Actions
-### GitHub Pages
-### GitHub Desktop e Mobile
-### Dependabot
-
---- 
-
-## Administração do Github
-### Conta Pessoal
-### Conta de Organização
-### Conta Corporativa
-
+| Nº | Pages |
+|----|--------|
+| 01 | [ Introduction to Spring Framework ](https://github.com/KleberVales/spring-framework-guide/wiki/01-Introduction-to-Spring-Framework) |
+| 02 | [Java Configuration ](https://github.com/KleberVales/spring-framework-guide/wiki/02-Java-Configuration) |
+| 03 | [Properties and Profiles ](https://github.com/KleberVales/spring-framework-guide/wiki/03-Properties-and-Profiles) |
+| 04 | [Annotation-Based Configuration and Component Scanning](https://github.com/KleberVales/spring-framework-guide/wiki/04-Annotation%E2%80%90Based-Configuration-and-Component-Scanning) |
+| 05 | [Spring Bean Lifecycle](https://github.com/KleberVales/spring-framework-guide/wiki/05-Spring-Bean-Lifecycle) |
+| 06 | [Aspect Oriented Programming](https://github.com/KleberVales/spring-framework-guide/wiki/06-Aspect-Oriented-Programming) |
 
 ---
-
-## Links
-
-#### Study guide for GH-900: GitHub Foundations 
-https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-900#exam-design
-
----
-
-### ✍️ Autor
-
-**Kleber Vales**  
-
-*Back-end Software Engineer*  
-Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
-
-Bacharel em Ciência da Computação  
-MBA em Desenvolvimento de Software 
-
-
