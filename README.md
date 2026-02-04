@@ -1,4 +1,4 @@
-## GitHub Administration [ Types of GitHub accounts ](https://github.com/KleberVales/github/wiki/01-GitHub-Administration) |
+## GitHub Administration [ Types of GitHub accounts ](https://github.com/KleberVales/github/wiki/01-GitHub-Administration) 
 
 - Types of GitHub accounts
 - Security
