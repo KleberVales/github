@@ -22,5 +22,6 @@
 - GitHub Copilot
 - GitHub Codespace
 - GitHub Actions
+- GitHub Pages
 
 ---
