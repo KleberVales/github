@@ -24,5 +24,6 @@
 - GitHub Actions
 - GitHub Pages
 - GitHub Desktop e Mobile
+- Dependabot
 
 ---
