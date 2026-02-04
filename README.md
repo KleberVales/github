@@ -31,6 +31,7 @@
 ## Github Project
 
 - Create and manage GitHub Projects
+- Use project boards for task management
 
 
 
