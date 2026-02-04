@@ -3,7 +3,7 @@
 ## [ GitHub Administration ](https://github.com/KleberVales/github/wiki/01-GitHub-Administration) 
 
 - Autentication
-- Types of GitHub accounts
+- Types of accounts
 
 ---
 
