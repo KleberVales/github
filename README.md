@@ -18,10 +18,8 @@
 
 ## [ GitHub Products ](https://github.com/KleberVales/github/wiki/03-GitHub-Products)
 
-| Nº | Pages |
-|----|--------|
-| 01 | [ Accounts and tools ]() |
-| 02 | [Github Project ]() |
-| 02 | [GitHub Actions ]() |
+- Accounts and tools
+- Github Project
+- GitHub Actions 
 
 ---
