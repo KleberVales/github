@@ -1,9 +1,7 @@
-## GitHub Administration
+## GitHub Administration [ Types of GitHub accounts ](https://github.com/KleberVales/github/wiki/01-GitHub-Administration) |
 
-| Nº | Pages |
-|----|--------|
-| 01 | [ Types of GitHub accounts ]() |
-| 02 | [Security ]() |
+- Types of GitHub accounts
+- Security
 
 ---
 
