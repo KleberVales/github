@@ -23,5 +23,6 @@
 - GitHub Codespace
 - GitHub Actions
 - GitHub Pages
+- GitHub Desktop e Mobile
 
 ---
