@@ -20,5 +20,6 @@
 
 - GitHub Project
 - GitHub Copilot
+- GitHub Codespace
 
 ---
