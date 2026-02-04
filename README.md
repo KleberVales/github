@@ -7,14 +7,12 @@
 
 ---
 
-## Working with Git and Github
+## [ Working with Git and Github ](https://github.com/KleberVales/github/wiki/02-Working-with-Git-and-Github) 
 
-| Nº | Pages |
-|----|--------|
-| 01 | [Introduction to Git GitHub ]() |
-| 02 | [Main commands ]() |
-| 02 | [Collaborative work ]() |
-| 02 | [Formatting with Markdown ]() |
+- Introduction to Git GitHub
+- Main commands
+- Collaborative work
+- Formatting with Markdown 
 
 ---
 
