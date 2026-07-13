@@ -9,7 +9,7 @@
 
 ### 2.1 Introduction to Git GitHub
 ### 2.2 Main commands
-- Collaborative work
+### 2.3 Collaborative work
 - Formatting with Markdown 
 
 ---
