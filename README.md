@@ -8,7 +8,7 @@
 ## 2. Working with Git and Github 
 
 ### 2.1 Introduction to Git GitHub
-- Main commands
+### 2.2 Main commands
 - Collaborative work
 - Formatting with Markdown 
 
