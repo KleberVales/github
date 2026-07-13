@@ -10,9 +10,7 @@
 ### 2.1 Introduction to Git GitHub
 ### 2.2 Main commands
 ### 2.3 Collaborative work
-- Formatting with Markdown 
-
----
+### 2.4 Formatting with Markdown 
 
 ## [ GitHub Products ](https://github.com/KleberVales/github/wiki/03-GitHub-Products)
 
