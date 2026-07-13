@@ -1,6 +1,6 @@
 # Github Study guide
 
-## 1. [ GitHub Administration ](https://github.com/KleberVales/github/wiki/01-GitHub-Administration) 
+## 1. GitHub Administration
 
 ### 1.1 Autentication
 ### 1.2 Types of accounts
