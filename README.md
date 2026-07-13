@@ -5,7 +5,7 @@
 ### 1.1 Autentication
 ### 1.2 Types of accounts
 
-## [ Working with Git and Github ](https://github.com/KleberVales/github/wiki/02-Working-with-Git-and-Github) 
+## 2. Working with Git and Github ](https://github.com/KleberVales/github/wiki/02-Working-with-Git-and-Github) 
 
 - Introduction to Git GitHub
 - Main commands
