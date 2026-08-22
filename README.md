@@ -25,7 +25,7 @@
 ## 4. Github Project
 
 ### 4.1 Create and manage GitHub Projects
-- Use project boards for task management
+### 4.2 Use project boards for task management
 - Integrate GitHub Projects with issues and pull requests
 
 ---
