@@ -18,7 +18,7 @@
 ### 3.2 GitHub Copilot
 ### 3.3 GitHub Codespace
 ### 3.4 GitHub Actions
-- GitHub Pages
+### 3.5 GitHub Pages
 - GitHub Desktop e Mobile
 - Dependabot
 
