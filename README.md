@@ -16,7 +16,7 @@
 
 ### 3.1 GitHub Project
 ### 3.2 GitHub Copilot
-- GitHub Codespace
+### 3.3 GitHub Codespace
 - GitHub Actions
 - GitHub Pages
 - GitHub Desktop e Mobile
