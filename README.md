@@ -20,7 +20,7 @@
 ### 3.4 GitHub Actions
 ### 3.5 GitHub Pages
 ### 3.6 GitHub Desktop e Mobile
-- Dependabot
+### 3.7 Dependabot
 
 ---
 
