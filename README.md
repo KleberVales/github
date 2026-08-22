@@ -12,7 +12,7 @@
 ### 2.3 Collaborative work
 ### 2.4 Formatting with Markdown 
 
-## [ GitHub Products ](https://github.com/KleberVales/github/wiki/03-GitHub-Products)
+## 3. GitHub Products 
 
 - GitHub Project
 - GitHub Copilot
