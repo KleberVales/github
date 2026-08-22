@@ -15,7 +15,7 @@
 ## 3. GitHub Products 
 
 ### 3.1 GitHub Project
-- GitHub Copilot
+### 3.2 GitHub Copilot
 - GitHub Codespace
 - GitHub Actions
 - GitHub Pages
