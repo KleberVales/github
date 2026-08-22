@@ -28,9 +28,7 @@
 ### 4.2 Use project boards for task management
 ### 4.3 Integrate GitHub Projects with issues and pull requests
 
----
-
-## GitHub Actions
+## 5. GitHub Actions
 
 ---
 
