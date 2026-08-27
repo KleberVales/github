@@ -1,11 +1,10 @@
 # Github Study guide
 
-## 1. Working with Git and Github 
+## 1. Introduction to Git GitHub
 
-### 1.1 Introduction to Git GitHub
-### 1.2 Main commands
-### 1.3 Collaborative work
-### 1.4 Formatting with Markdown 
+### 1.1 Main commands
+### 1.2 Collaborative work
+### 1.3 Formatting with Markdown 
 
 ## 2. GitHub Products 
 
