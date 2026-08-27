@@ -7,10 +7,10 @@
 ### 1.3 Collaborative work
 ### 1.4 Formatting with Markdown 
 
-## 1. GitHub Administration
+## 2. GitHub Administration
 
-### 1.1 Autentication
-### 1.2 Types of accounts
+### 2.1 Autentication
+### 2.2 Types of accounts
 
 
 
