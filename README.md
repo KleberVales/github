@@ -7,22 +7,20 @@
 ### 1.3 Collaborative work
 ### 1.4 Formatting with Markdown 
 
-## 2. GitHub Administration
+## 2. GitHub Products 
 
-### 2.1 Autentication
-### 2.2 Types of accounts
+### 2.1 GitHub Project
+### 2.2 GitHub Copilot
+### 2.3 GitHub Codespace
+### 2.4 GitHub Actions
+### 2.5 GitHub Pages
+### 2.6 GitHub Desktop e Mobile
+### 2.7 Dependabot
 
+## 3. GitHub Administration
 
-
-## 3. GitHub Products 
-
-### 3.1 GitHub Project
-### 3.2 GitHub Copilot
-### 3.3 GitHub Codespace
-### 3.4 GitHub Actions
-### 3.5 GitHub Pages
-### 3.6 GitHub Desktop e Mobile
-### 3.7 Dependabot
+### 3.1 Autentication
+### 3.2 Types of accounts
 
 ## 4. Github Project
 
