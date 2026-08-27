@@ -8,6 +8,7 @@
 
 ## 2. GitHub Products 
 
+### 2.1 Products and tools
 ### 2.1 GitHub Project
 ### 2.2 GitHub Copilot
 ### 2.3 GitHub Codespace
