@@ -42,3 +42,11 @@
 ### 2.2 Accessing workflow artifacts and logs
 ### 2.3 Using and managing workflow templates
 
+## 3. Create and maintain actions
+
+### 3.1 Create and resolve custom actions
+### 3.2 Define action structure and metadata
+### 3.3 Distribute and maintain shares
+
+
+
