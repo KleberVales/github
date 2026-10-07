@@ -32,7 +32,7 @@
 
 ## 1. Create and manage workflows
 
-
-
-
+### 1.1 Configure workflow triggers and events
+### 1.2 Design and implement workflow structure
+### 1.3 Manage workflow execution and outputs
 
