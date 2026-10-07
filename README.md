@@ -36,3 +36,9 @@
 ### 1.2 Design and implement workflow structure
 ### 1.3 Manage workflow execution and outputs
 
+## 2. Consume and troubleshoot workflows
+
+### 2.1 Interpreting workflow behavior and outcomes
+### 2.2 Accessing workflow artifacts and logs
+### 2.3 Using and managing workflow templates
+
